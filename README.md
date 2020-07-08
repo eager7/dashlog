@@ -11,7 +11,7 @@ of a subsystem-aware leveled logger implementing the same interface.
 ## Installation
 
 ```bash
-$ go get github.com/gcash/dashlog
+$ go get github.com/eager7/dashlog
 ```
 
 ## License
